@@ -23,5 +23,4 @@ __Technologies__
 | **0x02-shell_redirections**   | 	It aims to learn about how to handle standard input and output and how to combine commands and filters with redirections in Shell
 | **0x03-shell_variable_expansions** | 	It aims to learn about alias builtin, help builtin, local, global and reserved variables (PATH, HOME and PS1), special parameters $? and single an double quotes in Shell
 | **0x04-loops_conditions_and_parsing**  | 	It aims to learn about loops (while, until and for), condition statements (if, else, elif and case), shebangs and how to create SSH keys with Bash
-
-
+| __0x05-processes_and_signals__         |	It aims to learn about PID, processes and commands that handles them (ps, pgrep, pkill, kill, etc) in Bash
